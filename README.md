@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### A passionate developer from Turkey
-![A passionate developer from Turkey](https://i.hizliresim.com/0qNtMq.png)
+![A passionate developer from Turkey](https://i.hizliresim.com/C1Oqkb.png)
 
 A passionate developer from Turkey
 
