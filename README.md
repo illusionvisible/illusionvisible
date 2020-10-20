@@ -1,5 +1,3 @@
-### Hi there 👋
-#### A passionate developer from Turkey
 ![A passionate developer from Turkey](https://i.hizliresim.com/C1Oqkb.png)
 
 Skills: LUA / CSS / HTML / ADOBE PS/PR/AE
