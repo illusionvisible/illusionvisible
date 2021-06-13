@@ -4,4 +4,3 @@ Skills: LUA / CSS / HTML / ADOBE PS/PR/AE
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=illusionvisible&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/illusionvisible)  
